@@ -4,6 +4,7 @@ memecahkan password file.zip
 kalau yang versi tools keren pake tools JTR aja
 ┌──(kali㉿localhost)-[/sdcard]
 └─$ john hash.txt --wordlist=/sdcard/a.list
+
 Using default input encoding: UTF-8
 Loaded 1 password hash (PKZIP [32/64])
 Will run 8 OpenMP threads
@@ -14,4 +15,4 @@ Use the "--show" option to display all of the cracked passwords reliably
 Session completed.
 
 ┌──(kali㉿localhost)-[/sdcard]
-└─$
+└─$ 🦫
