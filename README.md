@@ -1,5 +1,6 @@
 # BFpassword.zip
-memecahkan password file.zip
+memecahkan password file.zip<br />
+tidak usah herang sama tools ini ada beberapa YouTube yang membuat tutorial cara membuat tools ini<br /> daripada kesimpan kan mending saya simpan di sini agar bisa di pake sama orang2 yang belum tau <br /> untuk menjalankan tools nya gunakan python2
 <img src="Screenshot_2024_0326_234154.png"/>
 kalau yang versi tools keren pake tools JTR aja
 ┌──(kali㉿localhost)-[/sdcard]
